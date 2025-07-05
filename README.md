@@ -1,3 +1,3 @@
-# git-learn
-manchuphon thiptanesuan 
-Aoy
+name : Thakdanai Laiwan
+nickname : Beam
+student ID : 1650903857
