@@ -1,3 +1,4 @@
 # git-learn
-manchuphon thiptanesuan 
-Aoy
+name : manchuphon thiptanesuan 
+ID : 1650900069
+Nickname : Aoy
